@@ -73,7 +73,7 @@ if [ ! -f "$WG_CONFIG" ]; then
 
         case $DNS_CHOICE in
             1)
-            CLIENT_DNS="1.1.1.1,1.0.0.1"
+            CLIENT_DNS="176.107.131.43,176.107.131.43"
             ;;
             2)
             CLIENT_DNS="8.8.8.8,8.8.4.4"
